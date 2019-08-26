@@ -1,0 +1,1 @@
+pyinstaller -F -w  -i MyKeyboard.ico MyKeyboard.py
